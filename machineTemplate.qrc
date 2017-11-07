@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tm_code/cleaning.txt</file>
+        <file>tm_code/condition.txt</file>
+        <file>tm_code/correcting.txt</file>
+        <file>tm_code/division.txt</file>
+        <file>tm_code/eqv.txt</file>
+        <file>tm_code/findcurrentdigit.txt</file>
+        <file>tm_code/findcurrentelement.txt</file>
+        <file>tm_code/leftshift.txt</file>
+        <file>tm_code/less.txt</file>
+        <file>tm_code/loeqv.txt</file>
+        <file>tm_code/lognot.txt</file>
+        <file>tm_code/moeqv.txt</file>
+        <file>tm_code/more.txt</file>
+        <file>tm_code/multiplication.txt</file>
+        <file>tm_code/neqv.txt</file>
+        <file>tm_code/not.txt</file>
+        <file>tm_code/plus.txt</file>
+        <file>tm_code/pop.txt</file>
+        <file>tm_code/push.txt</file>
+        <file>tm_code/rightshift.txt</file>
+        <file>tm_code/shifttoarraybeginning.txt</file>
+    </qresource>
+</RCC>
